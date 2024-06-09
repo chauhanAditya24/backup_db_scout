@@ -1,0 +1,102 @@
+[
+    {
+        "_id": {
+            "$oid": "665982022771a56513671a2a"
+        },
+        "content": "hello",
+        "sender": {
+            "$oid": "665865d9472b0efe26d978e4"
+        },
+        "chat": {
+            "$oid": "665980cdd571cc901e0e4603"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717142018414"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717142018414"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665982122771a56513671a34"
+        },
+        "content": "hey mate",
+        "sender": {
+            "$oid": "66585148db02a121eb8a6c48"
+        },
+        "chat": {
+            "$oid": "665980cdd571cc901e0e4603"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717142034149"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717142034149"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66598df1223b83c40d939758"
+        },
+        "content": "whats up",
+        "sender": {
+            "$oid": "665865d9472b0efe26d978e4"
+        },
+        "chat": {
+            "$oid": "665980cdd571cc901e0e4603"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717145073744"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717145073744"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66598e14223b83c40d939761"
+        },
+        "content": "nothing much",
+        "sender": {
+            "$oid": "66585148db02a121eb8a6c48"
+        },
+        "chat": {
+            "$oid": "665980cdd571cc901e0e4603"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717145108284"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717145108284"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]

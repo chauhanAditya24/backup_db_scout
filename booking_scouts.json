@@ -1,0 +1,68 @@
+[
+    {
+        "_id": {
+            "$oid": "665b2c9a2cca3130e83e458c"
+        },
+        "groundId": {
+            "$oid": "66595bcb301a580b532d748f"
+        },
+        "managerId": {
+            "$oid": "66595b07301a580b532d7473"
+        },
+        "time": "19:42-20:42",
+        "date": "01-06-2024",
+        "price": "1000",
+        "name": "Kickflix",
+        "location": "Canal Rd",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717132234/yruf2grusdra5v0di6vn.jpg",
+        "userId": {
+            "$oid": "665865d9472b0efe26d978e4"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717251226942"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717251226942"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665b31228dbdafa2492dbe42"
+        },
+        "groundId": {
+            "$oid": "66595bcb301a580b532d748f"
+        },
+        "managerId": {
+            "$oid": "66595b07301a580b532d7473"
+        },
+        "time": "20:02-21:02",
+        "date": "08-06-2024",
+        "price": "1000",
+        "name": "Kickflix",
+        "location": "Canal Rd",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717132234/yruf2grusdra5v0di6vn.jpg",
+        "userId": {
+            "$oid": "665865d9472b0efe26d978e4"
+        },
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717252386434"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717252386434"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]

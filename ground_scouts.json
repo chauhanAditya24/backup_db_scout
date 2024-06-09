@@ -1,0 +1,182 @@
+[
+    {
+        "_id": {
+            "$oid": "66595bcb301a580b532d748f"
+        },
+        "name": "Kickflix",
+        "location": "Canal Rd",
+        "city": "Dehradun",
+        "price": "1000",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "66595b07301a580b532d7473"
+        },
+        "capacity": "12",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717132234/yruf2grusdra5v0di6vn.jpg",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66596037301a580b532d752a"
+        },
+        "name": "Abhimanyu Cricket Ground",
+        "location": "Rajpur Road",
+        "city": "Dehradun",
+        "price": "6000",
+        "sport": "Cricket",
+        "timings": "5 AM - 10 PM",
+        "slotType": "4",
+        "userId": {
+            "$oid": "66595f8e301a580b532d74ec"
+        },
+        "capacity": "22",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717133367/augr1lo4hcbbo5it4pi2.jpg",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66596108301a580b532d7562"
+        },
+        "name": "Cage Football Turf",
+        "location": "Banjarawala",
+        "city": "Dehradun",
+        "price": "1000",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "665960a3301a580b532d7546"
+        },
+        "capacity": "12",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717133575/kmwap6iqshc5me7zygiq.jpg",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66596244301a580b532d759f"
+        },
+        "name": "Fit And Fun Village",
+        "location": "ISBT",
+        "city": "Dehradun",
+        "price": "1000",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "665961be301a580b532d757e"
+        },
+        "capacity": "12",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717133892/dusqbuezjhrnhwvxfl6s.jpg",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665970f5d79329cc1983e330"
+        },
+        "name": "Infinity Kicks",
+        "location": "Dilaram Road",
+        "city": "Dehradun",
+        "price": "1200",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "66596f79d79329cc1983e29f"
+        },
+        "capacity": "12",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717137652/thkshuzjc9sezcgin2k9.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66597267d79329cc1983e364"
+        },
+        "name": "JP football ground",
+        "location": "GMS road",
+        "city": "Dehradun",
+        "price": "1500",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "66597219d79329cc1983e352"
+        },
+        "capacity": "22",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717138022/aa2vtoivfrqulrovfv5o.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66597395d79329cc1983e3a4"
+        },
+        "name": "just gym",
+        "location": "doon university",
+        "city": "Dehradun",
+        "price": "1000",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "665972dad79329cc1983e389"
+        },
+        "capacity": "10",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717138324/ox3nzoxwkmrb6i3zobye.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6659752dd79329cc1983e3dc"
+        },
+        "name": "tenzin football ground",
+        "location": "Sahastradhara",
+        "city": "Dehradun",
+        "price": "1200",
+        "sport": "Football",
+        "timings": "5 AM - 11 PM",
+        "slotType": "1",
+        "userId": {
+            "$oid": "665974ebd79329cc1983e3c0"
+        },
+        "capacity": "18",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717138733/kaw34eth5cumexw3jyhz.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6659758fd79329cc1983e40b"
+        },
+        "name": "Kickflix Cricket Ground",
+        "location": "Malsi",
+        "city": "Dehradun",
+        "price": "6000",
+        "sport": "Cricket",
+        "timings": "5 AM - 11 PM",
+        "slotType": "3",
+        "userId": {
+            "$oid": "66595b07301a580b532d7473"
+        },
+        "capacity": "22",
+        "groundPicture": "https://res.cloudinary.com/scoutcloud/image/upload/v1717138831/mr9nliutngfnztq8zhmd.webp",
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]

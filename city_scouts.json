@@ -1,0 +1,56 @@
+[
+    {
+        "_id": {
+            "$oid": "6658409e1100dce96687fc52"
+        },
+        "city": "Delhi",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665840bd1100dce96687fc53"
+        },
+        "city": "Gurugram",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665840d81100dce96687fc54"
+        },
+        "city": "Faridabad",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665840eb1100dce96687fc55"
+        },
+        "city": "Dehradun",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665840fc1100dce96687fc56"
+        },
+        "city": "Chandigarh",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6658410e1100dce96687fc57"
+        },
+        "city": "Lucknow",
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]

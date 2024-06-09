@@ -1,0 +1,33 @@
+[
+    {
+        "_id": {
+            "$oid": "665980cdd571cc901e0e4603"
+        },
+        "chatName": "Sender",
+        "isGroupChat": false,
+        "users": [
+            {
+                "$oid": "665865d9472b0efe26d978e4"
+            },
+            {
+                "$oid": "66585148db02a121eb8a6c48"
+            }
+        ],
+        "createdAt": {
+            "$date": {
+                "$numberLong": "1717141709362"
+            }
+        },
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1717145109176"
+            }
+        },
+        "__v": {
+            "$numberInt": "0"
+        },
+        "latestMessage": {
+            "$oid": "66598e14223b83c40d939761"
+        }
+    }
+]

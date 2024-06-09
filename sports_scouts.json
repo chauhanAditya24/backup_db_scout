@@ -1,0 +1,56 @@
+[
+    {
+        "_id": {
+            "$oid": "665849ea1100dce96687fc59"
+        },
+        "name": "Football",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "665849ff1100dce96687fc5a"
+        },
+        "name": "Lawn Tennis",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66584a0c1100dce96687fc5b"
+        },
+        "name": "Basketball",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66584a1a1100dce96687fc5c"
+        },
+        "name": "Cricket",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66584a281100dce96687fc5d"
+        },
+        "name": "Badmintion",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66584a351100dce96687fc5e"
+        },
+        "name": "Table Tennis",
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]
